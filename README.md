@@ -1,5 +1,3 @@
-# atomistic_simulations_LAMMPS
-
 # LJ Melt Simulation (lj_melt_lammps.ipynb)
 
 This Google Colab notebook demonstrates molecular dynamics using the LAMMPS lj_melt example.
